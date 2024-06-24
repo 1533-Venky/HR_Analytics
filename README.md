@@ -1,1 +1,1 @@
-# HR_Analytics
+Welcome to the HR Analytics Project! This initiative addresses the critical issue of high employee turnover rates by utilizing advanced data analytics tools and techniques. Our primary objective was to conduct an in-depth analysis of HR data to identify key factors influencing employee attrition and implement data-driven interventions to mitigate this challenge. We used Power BI, Tableau, Excel, and MySQL to manage and analyze the datasets. The process involved collecting and cleaning HR data.
